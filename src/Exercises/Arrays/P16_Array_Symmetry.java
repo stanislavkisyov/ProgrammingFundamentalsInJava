@@ -1,5 +1,7 @@
 package Exercises.Arrays;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class P16_Array_Symmetry {
