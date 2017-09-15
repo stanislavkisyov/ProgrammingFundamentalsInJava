@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b91d1da7-283a-4b06-b238-5e8d1396d18c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercises/Arrays/More_Exercises/P01_Last_3_Consecutive_Equal_Strings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercises/Arrays/More_Exercises/P02_Array_Elements_Equal_to_Their_Index.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Exercises/Arrays/More_Exercises/P03_Phonebook.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ProgrammingFundamentalsInJava/Exercises/Arrays/P16_Array_Symmetry.class" afterPath="$PROJECT_DIR$/out/production/ProgrammingFundamentalsInJava/Exercises/Arrays/P16_Array_Symmetry.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ProgrammingFundamentalsInJava/Exercises/Arrays/P18_Ballistics_Training.class" afterPath="$PROJECT_DIR$/out/production/ProgrammingFundamentalsInJava/Exercises/Arrays/P18_Ballistics_Training.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Exercises/Arrays/P16_Array_Symmetry.java" afterPath="$PROJECT_DIR$/src/Exercises/Arrays/P16_Array_Symmetry.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Exercises/Arrays/More_Exercises/P03_Phonebook.java" afterPath="$PROJECT_DIR$/src/Exercises/Arrays/More_Exercises/P03_Phonebook.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,8 +54,8 @@
       <file leaf-file-name="P03_Phonebook.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Exercises/Arrays/More_Exercises/P03_Phonebook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="375">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -274,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.P02_Array_Elements_Equal_to_Their_Index">
+  <component name="RunManager" selected="Application.P03_Phonebook">
     <configuration name="P01_Last_3_Consecutive_Equal_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -313,14 +307,14 @@
       <module name="ProgrammingFundamentalsInJava" />
       <envs />
     </configuration>
-    <configuration name="P16_Array_Symmetry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="P03_Phonebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Exercises.Arrays.*" />
+          <option name="PATTERN" value="Exercises.Arrays.More_Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Exercises.Arrays.P16_Array_Symmetry" />
+      <option name="MAIN_CLASS_NAME" value="Exercises.Arrays.More_Exercises.P03_Phonebook" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -452,19 +446,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.P16_Array_Symmetry" />
-      <item index="1" class="java.lang.String" itemvalue="Application.P17_Altitude" />
-      <item index="2" class="java.lang.String" itemvalue="Application.P18_Ballistics_Training" />
-      <item index="3" class="java.lang.String" itemvalue="Application.P01_Last_3_Consecutive_Equal_Strings" />
-      <item index="4" class="java.lang.String" itemvalue="Application.P02_Array_Elements_Equal_to_Their_Index" />
+      <item index="0" class="java.lang.String" itemvalue="Application.P17_Altitude" />
+      <item index="1" class="java.lang.String" itemvalue="Application.P18_Ballistics_Training" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P01_Last_3_Consecutive_Equal_Strings" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P02_Array_Elements_Equal_to_Their_Index" />
+      <item index="4" class="java.lang.String" itemvalue="Application.P03_Phonebook" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.P02_Array_Elements_Equal_to_Their_Index" />
-        <item index="1" class="java.lang.String" itemvalue="Application.P01_Last_3_Consecutive_Equal_Strings" />
-        <item index="2" class="java.lang.String" itemvalue="Application.P18_Ballistics_Training" />
-        <item index="3" class="java.lang.String" itemvalue="Application.P17_Altitude" />
-        <item index="4" class="java.lang.String" itemvalue="Application.P16_Array_Symmetry" />
+        <item index="0" class="java.lang.String" itemvalue="Application.P03_Phonebook" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P02_Array_Elements_Equal_to_Their_Index" />
+        <item index="2" class="java.lang.String" itemvalue="Application.P01_Last_3_Consecutive_Equal_Strings" />
+        <item index="3" class="java.lang.String" itemvalue="Application.P18_Ballistics_Training" />
+        <item index="4" class="java.lang.String" itemvalue="Application.P17_Altitude" />
       </list>
     </recent_temporary>
   </component>
@@ -486,12 +480,12 @@
       <workItem from="1503993265347" duration="5529000" />
       <workItem from="1504258402009" duration="11533000" />
       <workItem from="1505119761628" duration="10347000" />
-      <workItem from="1505290436635" duration="17691000" />
+      <workItem from="1505290436635" duration="19896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46769000" />
+    <option name="totallyTimeSpent" value="48974000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1014,8 +1008,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercises/Arrays/More_Exercises/P03_Phonebook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="375">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
